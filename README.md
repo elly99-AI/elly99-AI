@@ -2,9 +2,16 @@
 
 📍 Where I Live: Rome (RM) – Italy  
 
-🔨 What I do: AI Developer & Cognitive Architect  
+🔨 What I do: AI Developer & Cognitive Architect
 
----
+<div align="center">
+
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/elena-marziali-784958250)
+[![](https://img.shields.io/badge/-HuggingFace-informational?style=for-the-badge&logo=huggingface&logoColor=black&color=FFCC00)](https://huggingface.co/elly99)
+
+
+</div>
+
 
 ## My Projects
 
@@ -16,35 +23,36 @@
 | **MuseumLangAPI** | REST API (Flask) for language detection in museum texts. JSON input, language code + confidence score. | Flask, scikit-learn | DEV | 🔗 |
 
 
-📎 *Want more? Check out [MarCognity-AI](https://github.com/ElenaMarziali/MarCognity-AI)*
-
 ---
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### 🔙 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) 
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 ### ⚙️ Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?logo=chainlink&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/Transformers-FFCC00?logo=huggingface&logoColor=black)
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)]()
+[![](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)]()
 
 ### 🎯 Techniques
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF5733?logo=openai&logoColor=white) 
-![Agent Architectures](https://img.shields.io/badge/Agent%20Architectures-2E86C1?logo=apache&logoColor=white) 
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4CAF50?logo=fastapi&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?logo=scikitlearn&logoColor=white) 
-![Error Handling & Logging](https://img.shields.io/badge/Error%20Handling%20%26%20Logging-9C27B0?logo=logstash&logoColor=white)
+[![](https://img.shields.io/badge/Prompt%20Engineering-FF5733?style=for-the-badge&logo=openai&logoColor=white)]()
+[![](https://img.shields.io/badge/Agent%20Architectures-2E86C1?style=for-the-badge&logo=apache&logoColor=white)]()
+[![](https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
+[![](https://img.shields.io/badge/Error%20Handling%20%26%20Logging-9C27B0?style=for-the-badge&logo=logstash&logoColor=white)]()
 
 ### 🛠️ Tools
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white) 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+[![](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)]()
+[![](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)]()
+[![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
----
+</div>
+
 
 ## 🧠 Vision
 MarCognity-AI is a research framework for reflective AI agents.  
