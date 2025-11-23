@@ -7,7 +7,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/elena-marziali-784958250)
-[![](https://img.shields.io/badge/-HuggingFace-informational?style=for-the-badge&logo=huggingface&logoColor=black&color=FFCC00)](https://huggingface.co/elly99)
+
 
 
 </div>
@@ -63,3 +63,4 @@
 ## 🧠 Vision
 MarCognity-AI is a research framework for reflective AI agents.  
 It combines ethical auditing and evolutionary memory with monitoring and feedback loops, offering a structured environment to experiment with transparency and adaptive intelligence.
+👉 Read the full article: [MarCognity‑AI: A Metacognitive Framework](https://www.linkedin.com/pulse/marcognityai-metacognitive-framework-reflective-elena-marziali-aifzf/?trackingId=WyeZ53T5QniIxYy3GtAGPg%3D%3D)
