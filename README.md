@@ -1,4 +1,4 @@
-# # I am an AI Developer & Cognitive Architect
+ # I am an AI Developer & Cognitive Architect
 
 📍 Where I Live: Rome (RM) – Italy  
 
