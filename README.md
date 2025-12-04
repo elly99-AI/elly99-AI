@@ -66,3 +66,4 @@
 MarCognity-AI is a research framework for reflective AI agents.  
 It combines ethical auditing and evolutionary memory with monitoring and feedback loops, offering a structured environment to experiment with transparency and adaptive intelligence.
 👉 Read the full article: [MarCognity‑AI: A Metacognitive Framework](https://www.linkedin.com/pulse/marcognityai-metacognitive-framework-reflective-elena-marziali-aifzf/?trackingId=WyeZ53T5QniIxYy3GtAGPg%3D%3D)
+👉 Read the full article: [From Words to Worlds — Building Cognitive AI with MarCognity‑AI](https://medium.com/@elenamarziali246/dalle-parole-ai-mondi-costruire-lintelligenza-artificiale-cognitiva-con-marcognity-ai-3cc9b196b670)
