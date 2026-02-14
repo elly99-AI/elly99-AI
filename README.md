@@ -40,6 +40,7 @@
 [![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)]()
 [![](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)]()
+[![](https://img.shields.io/badge/LangGraph-262626?style=for-the-badge&logo=langchain&logoColor=white)]()
 [![](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
 [![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
