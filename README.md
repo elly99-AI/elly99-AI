@@ -1,4 +1,4 @@
- # I'am AI Engineer # I'am AI Engineer (LLM & RAG) | LLM Evaluation & Reflective AI Systems | Python & ML | Background in Psychology
+ # AI Engineer # I'am AI Engineer (LLM & RAG) | LLM Evaluation & Reflective AI Systems | Python & ML | Background in Psychology
 
 📍 Where I Live: Rome (RM) – Italy  
 
