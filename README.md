@@ -2,7 +2,6 @@
 
 📍 Where I Live: Rome (RM) – Italy  
 
-🔨 What I do: AI Developer & Cognitive Architect
 
 <div align="center">
 
