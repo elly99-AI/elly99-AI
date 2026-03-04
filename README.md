@@ -1,4 +1,4 @@
- # AI Engineer # I'am AI Engineer (LLM & RAG) | LLM Evaluation & Reflective AI Systems | Python & ML | Background in Psychology
+ # AI Engineer | LLM-Based Analysis & Verification Systems | Retrieval & Structured Evaluation | Python & ML
 
 📍 Where I Live: Rome (RM) – Italy  
 
@@ -16,7 +16,7 @@
 
 | Project | Description | Tech | Status | Links |
 |---------|-------------|------|--------|-------|
-| **MarCognity-AI** | A framework that teaches AI how to think. Reflective agents with ethical auditing and evolutionary memory. | Python, Jupyter | DEV | https://github.com/elly99-AI/MarCognity-AI.git |
+| **MarCognity-AI** | A modular research framework for structured textual analysis, claim-level verification and source-grounded information processing. | Python, Jupyter | DEV | https://github.com/elly99-AI/MarCognity-AI.git |
 | **Intelligent-Virtual-Assistant** | Python-based assistant designed to understand and respond to complex voice requests. | Python | DEV | https://github.com/elly99-AI/Intelligent-Virtual-Assistant.git |
 | **E-commerce-Sales-Analysis-with-SQL** | SQL database project to analyze e-commerce sales data (KPIs, customer behavior, revenue trends). | SQL | PROD | https://github.com/elly99-AI/ecommerce_sales_analysis.sql.git |
 | **MuseumLangAPI** | REST API (Flask) for language detection in museum texts. JSON input, language code + confidence score. | Flask, scikit-learn | DEV | https://github.com/elly99-AI/MuseumLangAPI-Language-Detection-for-Museums.git |
@@ -63,9 +63,9 @@
 
 
 ## 🧠 Vision
-MarCognity-AI is a research framework for reflective AI agents. 
-It combines ethical auditing and evolutionary memory with monitoring and feedback loops, offering a structured environment to experiment with transparency and adaptive intelligence.
 
+MarCognity-AI is a structured analytical framework designed to decompose textual outputs into verifiable claims and evaluate source alignment.
+It focuses on reliability assessment, multi-source retrieval integration and structured analytical reporting workflows.
 ---
 
 ### 📚 Official Publication and Citation
