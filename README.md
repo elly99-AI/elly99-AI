@@ -66,6 +66,7 @@
 
 MarCognity-AI is a structured analytical framework designed to decompose textual outputs into verifiable claims and evaluate source alignment.
 It focuses on reliability assessment, multi-source retrieval integration and structured analytical reporting workflows.
+
 ---
 
 ### 📚 Official Publication and Citation
