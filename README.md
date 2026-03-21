@@ -2,6 +2,8 @@
 
 📍 Where I Live: Rome (RM) – Italy  
 
+Email : elenamarziali@tiscali.it
+
 
 <div align="center">
 
